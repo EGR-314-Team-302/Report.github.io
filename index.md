@@ -1,5 +1,5 @@
 ---
-EGR314 Fall 2023 : Team302 Rain Gauge
+EGR314 Fall 2023 : Team 302 Rain Gauge
 ---
 Members: Kalin Comins, Marla Hawthorne, Elton Salt, Enyinnaya Onyenso
 Prepared on 08/29/2023
