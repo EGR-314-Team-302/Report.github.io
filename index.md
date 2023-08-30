@@ -149,3 +149,7 @@ The product design will be based on current market options and include improveme
 ## Concepts
 Rain Gauge Concept
 <img src="RainGaugeConcept.png">
+
+Wind Turbine Concept
+
+<img src="https://cdn.discordapp.com/attachments/1113830941337600061/1146535172850851911/image.png">
