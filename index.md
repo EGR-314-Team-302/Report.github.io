@@ -28,3 +28,122 @@ Kalin Comins played the key role in the design process, his intial design concep
 
 
 ## Appendix
+
+## Ordered User Needs:
+The device has automated systems 
+The device makes accurate measurements 
+The device includes wireless connectivity 
+The device is made from rugged material 
+The device is reliable 
+The device is easy to set up
+The device is a time saver
+The device has the ability to save the user money
+The device takes consistent measurements
+The device has an attractive design
+The drive can be manufactured in multiple colors and finishes 
+The device is designed for longevity 
+The device can be portable
+The device is calibrated from the factory 
+The device can be calibrated by the user 
+The device uses renewable energy for its power consumption
+The device is designed with an expandable ecosystem in mind
+The device is efficient with its power use
+The device has easy to read measurements
+The device caters to a large demographic 
+The device incorporates an inoffensive design 
+The device can be mounted to existing hardware 
+The device can store data in the cloud 
+The device can store data on local storage solutions 
+The device can measure multiple points of weather data 
+The device provides a strong wireless connection 
+The device can measure wide intervals of data
+The device can withstand high speed winds
+The device can withstand prolonged exposure to UV rays without discoloration 
+The device can withstand extreme heat and cold temperatures
+The device allows the user to be self-sufficient/independent
+The device’s screen can be viewed from multiple angles
+The device’s display is backlit 
+The device’s display has touch capacity 
+The device can self-diagnose for problems 
+The deuce can empty its data collection tube autonomously 
+The device has a standby mode
+The device has intuitive software 
+The device can be serviced by the user 
+The device will include enough accessories for use out the box
+The device can be used by multiple users 
+The device will come with a troubleshooting guide
+The device can be engaged with remotely
+The device will come with a user friendly manual 
+The device’s battery life will be substantial 
+The device will be as small as comfortably possible 
+The device will feature physical hardware buttons 
+The device can be operated completely remotely
+The device will maintain a quiet noise profile 
+The device can perform simple statistical analysis of data collected 
+The device can provide multiple measurements 
+The device will be environmentally cohesive
+The device will offer a subscription program
+The device will support offline operation 
+The device will offer smart home integration
+The device will offer emergency warnings 
+The device can provided verbal alerts
+The device can offer auditory notifications
+The device can withstand shock 
+The device can withstand salt fog 
+
+## Aspects
+1. 	**Product Design**
+The product design will be based on current market options and include improvements on them such as:
+1.1   The product shall be made of weather resistant material.
+1.2   The product shall include necessary hardware for accessory access.
+1.3   The product shall incorporate an inoffensive design.
+1.4   The product shall include all necessary accessories color matched to the main unit.
+1.5   The product shall have an easy to access power port.
+1.6   The product shall be as small as comfortably  possible. 
+1.7   The product shall include a large backlit display.
+1.8  
+
+2   	**Functionality**
+2.1   The product shall incorporate all necessary radios for wireless communication.
+2.2   The product shall offer a large data collection container. 
+2.3   The product shall incorporate an atmospheric sensor to determine barometric pressure.
+2.4   The product shall have a month(s) long battery life.
+2.5   The product shall use a resistive or ultrasonic sensor for rainfall measurements.
+2.6   
+3   	**Interactivity**
+3.1   The product shall function and pair to the outside device and the user’s device.
+3.2   The product shall offer data emptying functions including data collector emptying via remote motor actuation.
+3.3   The product shall offer an interactive touchscreen displaying data. 
+3.4   The product shall offer a standby mode that displays ambient weather information.
+3.5   The user interface shall be intuitive for all users after reading the manual.
+3.6   The product's functions and data shall be accessible from a web application.
+3.7   
+4   	**Adaptive Intelligence**
+4.1   The product shall provide real-time automatic weather updates to the user.
+4.2   The product shall perform automatic sensor calibration.
+4.3   The product shall automatically empty its data collection container once full and after the data has been logged.
+4.4   The system shall enter standby mode once direct interaction has been finished.
+5   	**Customization**
+5.1   The product shall offer multiple means of weather data collection.
+5.2   The product shall offer multiple purchasable display packages.
+5.3   The product shall be user configurable with purchasable add-on sensors.
+5.4   The product shall be offered in different finishes and colors depending on the material selected for production.
+6   	**Manufacturing**
+6.1   The total FOB cost price of the product shall be <$125. 
+6.2   Parts must be mass-producible in batches of 10,000 parts. 
+6.3   The product shall be designed to assemble in under 2 minutes.. 
+6.4   The position of any component cannot change during assembly.
+6.5   Functioning of the device shall be easy to check by the manufacturer. 
+6.6   The product shall be designed to consist of the minimum possible amount of parts. 
+6.7   The product shall be calibrated during manufacturing.
+6.8	The product shall be constructed to be user serviceable.
+
+
+7   	**Regulations**
+7.1    The product shall pass a standard ASTM D 1148 test for discoloration from UV light and heat.
+7.2 The product shall pass a standard MIL-STD-810 humidity test.
+7.3 The product shall pass MIL-STD-810 Methods 501, 502, and 503 tests for extreme temperatures. 
+7.4 The product shall pass a standard ASTM B117 test for salt fog conditions.
+
+
+## Concepts
