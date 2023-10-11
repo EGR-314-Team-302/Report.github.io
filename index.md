@@ -1,11 +1,19 @@
-***
+
+
 EGR314 Fall 2023 : Team 302 Rain Gauge
-***
+---
 Members: Kalin Comins, Marla Hawthorne, Elton Salt, Enyinnaya Onyenso
 Prepared on 08/29/2023
 Arizona State University 
 EGR 314 Embeded Sys. Design Project II
-***
+---
+
+[TOC]
+
+
+## Introduction
+We are a group of engineers who have been tasked with developing a mobile weather station. This station will be equipped with two serial sensors which can measure temperature, atmospheric pressure, wind speed,humidity, or other metrics upon approval and transmit the data via WiFi. Additionally, the station will include a motor which will enable us to remotely actuate an object of our choice according to the weather conditions. While this project will be challenging, it is also an opportunity to utilize our expertise to create a novel and cutting-edge product. We have the utmost confidence that we will be able to successfully execute this project and produce a mobile weather station which is both precise and dependable.
+
 ## Team Organization
 <!-- Charter-->
 Engineering projects are paramount to driving innovation adn progress in our world. It requires careful planning, excution, and coordination with a team to complete on time, on budget, and to the highest quality standards. This in the forefront of our minds led us to create our charter as follows:
@@ -18,14 +26,30 @@ With our charter firmly in place for our team, we then turned to create our miss
 We identified our user needs by conducting research on products that are on the market. By combing through the pages of reveiws, five stars to one star, we were able to distill what the user was looking for in a mobile weather station. Our team specifically picked out smart rain gauges as a market to pursue and from what we gathered, the user needs were apparent. By going through the reviews of certain popular and unpopular smart rain gauges, we identified sore spots or highlights the consumer contiuously pointed out in their reviews. We took these pain points and praises, seperated out the fluff and kept what was relevent to us, dividing this data up into two categories, Latent and Explicit. Explicit being more easily identifiable pain points and Latent being points that are more difficult to pin down as to why they're frustrating. We then took these points of frustration and pain and turned them into specifcations from where our product can draw its strengths from.To ensure these specifications our design will revolve around we will constantly be reffering to our list of product requirements to make sure we incorporate at least the top twenty five percent of them in our product. Our product requirements list is our most purest form of user needs that relate specifically to our device and with this list we can asses our device according to it. Some standout requirements we were not anticipating were the device can withstand extreme heat and cold temperatures, the device is made from rugged material, and even more surprisingly, the device has the ability to save the user money. For the full list of product requirements and user needs they can be found in the appendix.
 
 ## Design Ideation
-Kalin Comins played the key role in the design process, his intial design concept is what sparked a host of different design ideas and iterations.
-**Put your role in Generating ideas and then delete this comment** We used a couple of different brainstorming methods, mind mapping, figure storming, rapid ideation, but the method that worked best for us was round robin. Everyone was able to pitch their ideas and we voted on which would be the most viable for our group and the projects scope. We then took these ideas and ranked them with a 3 star sytsem, 1 being the least viable and 3 being the most viable. Then we all created a concept of our device around the ideas we ranked so we can have the most variety and originality as possible in our device. The concepts can be found in the appendix.**Add your concept to the appendix and delete this comment**
+Kalin Comins played the key role in the design process, his intial design concept is what sparked a host of different design ideas and iterations. Elton Salt's role was the refinement of the actuation system in Kalin Comins design concept. Enyinnaya Onyenso's role was how the device is going to be manufactured and constructed using only surface mounted components. Marla Hawthorne's role was how the concept was going to coalesce into a finsished a finished project that met or exceeded the guidelines we were given.
+ We used a couple of different brainstorming methods, mind mapping, figure storming, rapid ideation, but the method that worked best for us was round robin. Everyone was able to pitch their ideas and we voted on which would be the most viable for our group and the projects scope. We then took these ideas and ranked them with a 3 star sytsem, 1 being the least viable and 3 being the most viable. Then we all created a concept of our device around the ideas we ranked so we can have the most variety and originality as possible in our device. The concepts can be found in the appendix.
 
+ ## Selected Design 
+The design we decided to pursue was the rain guage and we chose that design for a number of reasons. The first being is simplicity, the aim of our group is to produce a product that adheres as closely to the product requirements and and user needs as possible. The simplicity in the rain gauge's design allows us to do just that and create an actual, functioning product. The second reason we chose the rain guage is because it is the culmination of all our ideas into one simple package with little being left out of our design. The final reason we chose we the rain gauge is because of the possibility of expanding the devices use cases. We wanted to create an uncomplicated device with the potential to expand its capacities. The rain guage design gives us that flexibility without sacrificing our main intent of creating a manageable device. The current design of the rain guage can be seen below in **Figure 1.**
 
+**Figure 1.** Rain Guage Concept
+<img src="Rain guage concept.png">
 
+## Block Diagram 
+From the design we currently have, we created a block diagram to flesh out how the rain guage will actually work and how the subsytems will function as seen below in **Figure 2.** By using a block diagram we can map out how the device will come together and conceptualize what the final design will function like. We can also put the user needs and product requirements into action, as you can see from the diagram; the barebones of the block diagram allow us to fit the user needs and product requirements into our design with tangible parts, system requirements, and data connections. From the block diagram we then could start our component selection and begin picking components for our design
 
+**Figure2.** Rain Guage Block Diagram
+<img src="Block Diagram-314Team302.drawio.png">
 
+## Component Selection
+The component selection can be arguably the most important segment of our project, this section directly impacts the product and the project as a whole. In order to establish the component selection section of the product, we first reestablished ourselves with the product's specific requirements. Specifically, what are the user needs and product requirements that the product needs to satisfy? Additionally, what size, weight and power constraints must be met in order to meet the product's requirements? From there, we began researching various components that may be applicable to the product. When selecting components, we had to consider a number of factors, such as: performance: components must meet the product's performance requirements. Cost: components must be cost-effective and not exceed the project's budget. Availability: components must be easily accessible and not difficult to obtain. Reliability: components must be dependable and not cause product failures or customer dissatisfaction.Once we had considered all of these factors, we selected a set of components that we believe best meet the needs of the product. To see the components we selected refer to the appendix for the more details. 
 
+## Harware Proposal
+<img src="team (2)-1.png">
+
+## Software Proposal
+
+<img src="SoftwareProposal.drawio.png">
 
 ## Appendix
 
@@ -445,8 +469,17 @@ Light up controls (Latent)
 
 **Concepts**
 Rain Gauge Concept
-<img src="RainGaugeConcept.png">
+<img src="Rain guage concept.png">
 
 Wind Turbine Concept
 
 <img src="https://cdn.discordapp.com/attachments/1113830941337600061/1146535172850851911/image.png">
+
+Hygrometer Concept
+<img src="Hygrometer concept.png">
+
+## Component Selection Full List
+<img src="Component Selection (1).pdf">
+
+## Power Budget
+<img src="Power Budget.xlsx - Power Budget.pdf">
