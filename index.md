@@ -44,8 +44,8 @@ From the design we currently have, we created a block diagram to flesh out how t
 ## Component Selection
 The component selection can be arguably the most important segment of our project, this section directly impacts the product and the project as a whole. In order to establish the component selection section of the product, we first reestablished ourselves with the product's specific requirements. Specifically, what are the user needs and product requirements that the product needs to satisfy? Additionally, what size, weight and power constraints must be met in order to meet the product's requirements? From there, we began researching various components that may be applicable to the product. When selecting components, we had to consider a number of factors, such as: performance: components must meet the product's performance requirements. Cost: components must be cost-effective and not exceed the project's budget. Availability: components must be easily accessible and not difficult to obtain. Reliability: components must be dependable and not cause product failures or customer dissatisfaction.Once we had considered all of these factors, we selected a set of components that we believe best meet the needs of the product. To see the components we selected refer to the appendix for the more details. 
 
-## Harware Proposal
-<img src="team (2)-1.png">
+## Hardware Proposal
+<img src="TeamSchemadic.png">
 
 ## Software Proposal
 
