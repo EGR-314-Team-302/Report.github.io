@@ -1,21 +1,21 @@
----
+***
 EGR314 Fall 2023 : Team 302 Rain Gauge
----
+***
 Members: Kalin Comins, Marla Hawthorne, Elton Salt, Enyinnaya Onyenso
 Prepared on 08/29/2023
 Arizona State University 
 EGR 314 Embeded Sys. Design Project II
-
+***
 ## Team Organization
-
-Charter
-The project's goal is to develop a hands-free gadget that is straightforward to use and maintain, uses ecologically friendly designs and materials to produce a product, and may be expanded upon in the future for an end product. Along with creating a project we can add to our resumes for potential employers, the project team hopes to promote a positive work environment that encourages collaboration.
-
-Mission Statement 
-We believe that all people deserve access to reliable, easy-to-use, and comprehensible weather information. The goal of our product is to make that a reality for people who don’t necessarily occupy one place. We use the most up-to-date technology to give our users the best experience possible. We use the latest sensors, actuators, and are always innovating to make our product better. We are passionate about making a positive impact on the world around us. We believe our product can keep people safe and make decisions about their lives while they are on the go.
+<!-- Charter-->
+Engineering projects are paramount to driving innovation adn progress in our world. It requires careful planning, excution, and coordination with a team to complete on time, on budget, and to the highest quality standards. This in the forefront of our minds led us to create our charter as follows:
+"The project's goal is to develop a hands-free gadget that is straightforward to use and maintain, uses ecologically friendly designs and materials to produce a product, and may be expanded upon in the future for an end product. Along with creating a project we can add to our resumes for potential employers, the project team hopes to promote a positive work environment that encourages collaboration." This gives our team a solid foundation we can build on to create a productive and well organized collaborative team.
+<!-- Mission Statement-->
+With our charter firmly in place for our team, we then turned to create our mission statement for this specific project. We know that weather stations are essential for collecting and monitoring weather data. They are used to make weather forecasts, track climate change, and provide early warning of severe weather events. Mobile weather stations are a new type of weather station that are becoming increasingly popular. Mobile weather stations are portable and can be used anywhere, making them ideal for collecting data in remote areas or areas devoid of access to traditional weather stations. Taking this information into consideration we devised a mission statement that we believe perfectly encapsulates this project and its as follows:
+"We believe that all people deserve access to reliable, easy-to-use, and comprehensible weather information. The goal of our product is to make that a reality for people who don’t necessarily occupy one place. We use the most up-to-date technology to give our users the best experience possible. We use the latest sensors, actuators, and are always innovating to make our product better. We are passionate about making a positive impact on the world around us. We believe our product can keep people safe and make decisions about their lives while they are on the go." With our charter and mission statement created, we could then move onto the more tangible parts of the project, starting with our user needs, benchmarking, and product requirements and if you want to know more about our team organization please refer to the appendix.
 
 ## User Needs, Benchmarking, and Requirements
-We identified our user needs by conducting research on products that are on the market. By combing through the pages of reveiws, five stars to one star, we were able to distill what the user was looking for in a mobile weather station. Our team specifically picked out smart rain gauges as a market to pursue and from what we gathered, the user needs were apparent. By going through the reviews of certain popular and unpopular smart rain gauges, we identified sore spots or highlights the consumer contiuously pointed out in their reviews. We took these pain points and praises, seperated out the fluff and kept what was relevent to us, dividing this data up into two categories, Latent and Explicit. Explicit being more easily identifiable pain points and Latent being points that are more difficult to pin down as to why they're frustrating. We then took these points of frustration and pain and turned them into specifcations from where our product can draw its strengths from.To ensure these specifications our design will revolve around we will constantly be reffering to our list of product requirements to make sure we incorporate at least the top twenty five percent of them in our product. Our product requirements list is our most purest form of user needs that relate specifically to our device and with this list we can asses our device according to it. For the full list of product requirements and user needs they can be found in the appendix.
+We identified our user needs by conducting research on products that are on the market. By combing through the pages of reveiws, five stars to one star, we were able to distill what the user was looking for in a mobile weather station. Our team specifically picked out smart rain gauges as a market to pursue and from what we gathered, the user needs were apparent. By going through the reviews of certain popular and unpopular smart rain gauges, we identified sore spots or highlights the consumer contiuously pointed out in their reviews. We took these pain points and praises, seperated out the fluff and kept what was relevent to us, dividing this data up into two categories, Latent and Explicit. Explicit being more easily identifiable pain points and Latent being points that are more difficult to pin down as to why they're frustrating. We then took these points of frustration and pain and turned them into specifcations from where our product can draw its strengths from.To ensure these specifications our design will revolve around we will constantly be reffering to our list of product requirements to make sure we incorporate at least the top twenty five percent of them in our product. Our product requirements list is our most purest form of user needs that relate specifically to our device and with this list we can asses our device according to it. Some standout requirements we were not anticipating were the device can withstand extreme heat and cold temperatures, the device is made from rugged material, and even more surprisingly, the device has the ability to save the user money. For the full list of product requirements and user needs they can be found in the appendix.
 
 ## Design Ideation
 Kalin Comins played the key role in the design process, his intial design concept is what sparked a host of different design ideas and iterations.
@@ -29,7 +29,118 @@ Kalin Comins played the key role in the design process, his intial design concep
 
 ## Appendix
 
-## Ordered User Needs:
+## Team organization
+Team 302
+ *Team Goals*
+Create a hands-free device that is simple to use and easy to maintain.
+Employ the use of sustainable designs and materials to deliver an environmentally cohesive product. 
+Make something we can at least build off of in the future for a cohesive project
+Create a project that we can add to our portfolio for future employment
+Foster a favorable work environment to foster building connections
+
+*Charter*
+The project's goal is to develop a hands-free gadget that is straightforward to use and maintain, uses ecologically friendly designs and materials to produce a product, and may be expanded upon in the future for an end product. Along with creating a project we can add to our resumes for potential employers, the project team hopes to promote a positive work environment that encourages collaboration.
+
+*Mission Statement*
+We believe that all people deserve access to reliable, easy-to-use, and comprehensible weather information. The goal of our product is to make that a reality for people who don’t necessarily occupy one place. We use the most up-to-date technology to give our users the best experience possible. We use the latest sensors, actuators, and are always innovating to make our product better. We are passionate about making a positive impact on the world around us. We believe our product can keep people safe and make decisions about their lives while they are on the go.
+
+*Communication Channels*
+Name
+1st Choice Comm.
+2nd Choice Comm.
+3rd Choice Comm.
+ Marla Hawthorne
+1.Discord
+2.Canvas
+3.Email
+ Elton Salt
+1.Discord
+2.Email
+3.Cellphone
+ Kalin Comins
+1.Discord 
+2.Email
+3.Canvas
+ Enyinnaya Onyenso
+1.Discord
+2.Email
+3.Canvas
+
+
+*Communication Procedures*
+All communication will first take place on Discord. Discord will be our primary source of information, where information from instruction or other sources will be placed by whomever receives it first. This will allow everyone in your group to stay connected to the most up-to-date information available. All members will use Discord to communicate and discuss any instructor correspondence in order to progress with our project.
+Meeting Schedule
+
+
+*Meeting Coordination*
+We will use a discord reminder tool to keep track of meetings. 
+Our team will adjust or add meeting dates as needed via discord meetings and notifications. 
+The preferred meeting format is virtual, but meetings can also take place in person.
+Our team doesn't feel there are any other procedures necessary at this time, if need be, we can revise this document to add any additional procedures we agree are necessary. 
+
+
+
+*Roles and Responsibilities*
+1.Role
+2.Duties
+3.Assignment
+1.Secretary
+2.Coordinates meetings as necessary
+3.Marla Hawthorne
+Lead Planner
+Makes notes on next steps 
+
+
+Elton Salt
+1.Assignment Leader 
+2.Keeps time of due dates 
+3.Starts documents
+Kalin Comins
+1.Project Manager
+2.Manages changes in the evolving project
+Enyinnaya Onyenso
+
+
+Project roles can change after each checkpoint.
+Each role is decided by volunteering, and if needed, the group will assign.
+By directly or indirectly aiding those who need it we can help one another meet their responsibilities.
+We will see who needs the most help and adjust the roles so those who may be doing less can help those who may be doing more.
+Team activities and milestones will be tracked using the assignments and checkpoints as larger beacons of progress, while internal milestones and goals will be checked through our communication routes.
+We will assign technical responsibilities by who has the most experience, if experience is equal then paired learning can be incorporated in our assignment.
+
+*Team Coordination & Accountability*
+Each assignment will be subject to a review process after completion. If someone objects to the submission of an assignment, the objection is reviewed and/or the assignment is amended/submitted depending on how the review goes. Everyone will have the opportunity to comment on the assignment. If they would like, they may waive their chance to comment at their own discretion. 
+The skill or knowledge confirmation will be verbal. In the event of an absence, we will rearrange the duties in an appropriate manner to ensure everyone carries a reasonable workload. 
+Feedback will be discussed in a virtual or face-to-face meeting. After such a meeting, feedback will be divided and processed by each member on the team based on their role in providing the feedback. If no role was provided, then the member or members not involved will help those who were.
+To address missed contributions/assignments/actions, a three strikes rule will be implemented. This means that everyone gets three chances(strikes) to make a mistake, after the final chance(strike) a major group meeting will take place with the instructor and possibly result in the offending member receiving a pink slip(out).
+Addressing missed assignments/contributions/actions will take place either in person or virtual in our discord.
+We will hold each other accountable using the three strike rule I mentioned above.
+If an underperforming team member is not putting in the same amount of effort or quality of work as the other members, this will be immediately flagged by the feedback and score we get from the instructor.
+We will help the underperforming member by directly getting involved and bolstering their understanding, performance, and output.
+The consequences of an underperforming member will fall under the three strikes rule laid out above.
+
+*Conflict Recognition & Resolution*
+All conflicts will be solved in the discord. No deleting of messages will be tolerated. Any major conflicts will be brought to a person with more experience for a second opinion. Any minor issues will be settled with a dice roll.
+Major conflicts include:
+Component Selection
+Major individual time allots 
+Major Project Decisions
+Project requirements
+
+Minor conflicts include:
+Role/ work assignments
+Total effort output
+Quality of work 
+Meeting times 
+
+Signatures
+X Elton Salt
+X Marla Hawthorne
+X Enyinnaya Onyenso
+X Kalin Comins
+
+
+## Ordered User Needs and Benchmarking:
 The device has automated systems  
 The device makes accurate measurements  
 The device includes wireless connectivity  
@@ -145,8 +256,194 @@ The product design will be based on current market options and include improveme
 7.3 The product shall pass MIL-STD-810 Methods 501, 502, and 503 tests for extreme temperatures.  
 7.4 The product shall pass a standard ASTM B117 test for salt fog conditions.  
 
+**Benchmarking**
+Search #1
+Product #1
+Keywords: Weather Station
+Search Result link: https://www.amazon.com/s?k=weather+station&crid=1JA01T724WXJJ
 
-## Concepts
+Price: $449.99
+Vendor:Amazon
+Description: WS-5000 Smart Weather Station, Solar powered and features a Barometer and Hygrometer with optional additions.
+
+Positive
+The reviewer needed a reliable replacement for another weather station. The reviewer likes that the device is easy to set up. The reviewer also likes that the device can be placed to avoid obstacles. The reviewer likes that the display is intuitive and setting up data transfer is easy.
+The device is easy to set up. (Explicit)
+The device is accurate. (Explicit)
+The device is portable (Explicit)
+The device stores data for easy access (Latent)
+The reviewer replaced their functional but outdated Davis Weather Monitor II with the Ambient WS-5000 weather station; they experienced no issues after 4 days of use. Setting up the station involved entering latitude/longitude for sunrise/sunset, configuring Wi-Fi, creating an Ambient Weather account, and inputting the MAC address. The station offered accurate data with detailed graphs, while the console's display was bright initially but was adjusted to dim at night. The cost-effective unit provided improved features over the old Davis model, breaking down rainfall data and avoiding data upload charges.
+
+The device input is customizable. (Explicit)
+The device is cost effective (Explicit)
+The device represent data in a detailed and orderly manner (Explicit)
+
+
+The reviewer bought the Ambient WS-5000 weather station 1.5 years ago, impressed by its high quality compared to their previous weather devices. They appreciated the accuracy of the rain gauge, although it requires occasional cleaning due to debris. They use rechargeable Lithium batteries for extended battery life. The customer found the mobile app useful for remote weather monitoring and mentioned the option to join a large weather network. They advised careful placement of the station due to potential impact on wind and rain readings, and overall, they expressed satisfaction with their purchase decision based on their research.
+The device has a long battery life (Explicit)
+The device can be easily customized with new parts/sensors (Explicit)
+The device requires occasional cleaning (Explicit)
+
+
+Negative
+The reviewer thinks the overall unit is a good unit. They believe it is expensive and cheaply made. The screen is far too small to see most of the information from more than a few feet away. Also the screen breaks with a minor drop (18 inches for me). Out over two hundred dollars to replace.
+The device should be made with durable materials (Explicit)
+The device should have ample display capabilities (Explicit)
+The device should have lower replacement cost (Latent)
+The customer expresses significant disappointment with their recent purchase of the WS5000 weather station. They found the assembly process to be challenging and not as straightforward as indicated in the video guide. They regret not choosing the $300 unit that permits mounting all components on a single pole for better quality and simplicity. Compared to their previous Davis station's 10-year lifespan, they express further concern as the sensor hangs below the hydrometer, indicating potential issues with design and durability.
+The device should be easy to assemble (Explicit) 
+The device should be safe to use (Explicit) 
+The reviewer's initial enthusiasm for the WS5000 weather station faded when they switched to Starlink internet and the station failed to connect. Despite seeking help from Ambient tech support, they were informed that the station doesn't support Starlink or 5G and the company appeared indifferent to this limitation. The inability to access data online or remotely monitor their RV's temperature due to the lack of internet connectivity disappointed the customer. They also criticize the station's setup process and outdated menu system, concluding that while the station itself is good, the poor setup experience and lack of support for emerging technologies like Starlink and 5G make it a less attractive option, especially for those who value internet connectivity.
+The device should have good network connectivity (Latent)
+The device should have an intuitive user interface (Explicit)
+
+
+Search #2
+Product #2
+Keywords: Rain Gauge
+Search Result link: Link
+Selected Product: AcuRite Wireless Digital Rain Gauge with Self-Emptying Collector with Rainfall History, Alerts, and Current Date and Time (00899), Multicolor
+
+Price: $37.76
+Vendor:Amazon
+Description: The AcuRite Digital Rain Gauge with Self-Emptying Wireless Rain Collector features precise, reliable rainfall measurements. The LCD screen displays daily rainfall and records rainfall history, including a rainfall event, 1 day or 7 days of measurements. Includes rain and flood watch alarms. The outdoor sensor is self-emptying and transmits rain data wirelessly. Includes a clock and calendar. Display stands upright for tabletop use or is wall-mountable. 
+
+Positive
+The reviewer is very satisfied with the rain gauge and believes it is better than any other they have used before. They love that it is self-emptying, which saves them time and hassle.They also appreciate that it stores 7 days of data, which allows them to track rainfall patterns over time.The reviewer says that the rain gauge has helped them save money on watering their lawn.They also mention that the rain gauge was easy to set up.
+The device is a time saver. (Latent)
+The device is easy to set up. (Explicit)
+The device saves the user money. (Explicit)
+The reviewer is very happy with the rain gauge and loves that it empties itself, tracks daily rain amount, and stores history of rain amount. They also appreciate the accuracy of the rain gauge and find it fun to see the totals adding up each time it rains.
+The device can empty itself.(Explicit)
+The device provides accurate measurements. (Explicit)
+The device is engaging to its user. (Latent)
+The reviewer is very happy with the AcuRite Wireless Digital Rain Gauge and finds it to be accurate. They have compared the readings from the rain gauge to the readings from their weather station and found that they are within 1/100th to no more/less than 1/10th of each other. The reviewer likes that the rain gauge allows them to know how much rain they have received, rather than relying on regional totals from the news. They have found that the rain gauge is especially helpful in areas where rainfall can vary greatly from place to place.
+The device provides accurate measurements. (Explicit)
+The device allows the user to be more independent. (Latent)
+The device provides consistent measurements. (Explicit) 
+
+
+
+Negative
+The reviewer purchased a rain gauge and set it up according to the manual. However, the rain gauge did not measure the rainfall correctly. The reviewer used a manual rain gauge to measure the rainfall and it showed that 2.5 inches of rain had fallen. However, the digital rain gauge only registered less than 0.05 inches of rain.
+The device provides accurate measurements. (Explicit)
+The device’s manual needs to be user friendly. (Latent)
+The device is easy to set up. (Explicit)
+The reviewer purchased a wireless rain gauge and has been using it for about a month. However, the rain gauge has lost signal multiple times. The reviewer has placed the receiver in the window closest to the collector, which is about 20 feet away. Even with the receiver closer to the collector, the rain gauge still loses signal.
+The device needs to have a strong wireless connection. (Explicit)
+The device needs to be more reliable. (Latent)
+The device’s accessories need to be as robust as the main device. (Latent)
+The pairing process was difficult and took several tries. If the batteries are bumped, the system resets and has to be set up again. The readings from the rain gauge are inaccurate.
+The device is easy to set up. (Explicit)
+The device needs to be rugged enough for extended outdoor use. (Latent)
+The device's software needs to be intuitive/stress-free. (Latent)
+
+
+Product #3
+Search Result link: Link
+Selected Product:Logia 7-in-1 Weather Station Indoor/Outdoor Weather Monitoring System, Temperature Humidity Wind Speed/Direction Rain UV & More, Wireless Color Console w/Forecast Data, Alarm, Alerts
+
+Price: $99.99
+Vendor:Amazon
+Description:This unit tracks indoor/outdoor humidity and temperature; wind speed and direction; current rainfall and rate; UV and solar intensity and a host of other weather-related details. 
+
+Positive
+The reviewer purchased a wireless weather station and is generally happy with it. The display is nicely made, but it is too small for the reviewer's desired location. The weather station is supposed to receive a time signal, but it has never happened. The reviewer had to set the clock manually. The weather station is accurate and the outside piece is compact.
+The device needs to have an easy to read display. (Explicit)
+The device's software needs to be intuitive/stress-free. (Latent)
+The device's physical appearance should be inoffensive. (Latent)
+The reviewer purchased a wireless weather station and is using it to monitor the weather conditions outside their home. They had no trouble connecting the station with the base unit and there have been no connectivity issues with a 50-60 foot separation. The reviewer believes the weather station to be accurate and responsive to changing conditions.
+The device needs to have a strong wireless connection. (Explicit)
+The device provides multiple measurements of weather conditions. (Explicit)
+The device provides accurate measurements. (Explicit)
+“It is brilliant I'm a 12 year old boy who wants to become a meteorologist and this is the perfect gift thank you”
+The device can be used by a large demographic. (Latent)
+The device's software needs to be intuitive/stress-free. (Latent)
+The device is easy to set up. (Explicit)
+
+
+Negative
+The reviewer purchased a wireless weather station and is not happy with it. The weather station is constantly losing signal and it is not easy to get it to pair up again. The outdoor unit also shows half battery after only a few weeks, even with Duracell batteries. The reviewer does not recommend buying this weather station as it is not reliable.
+The device needs to have a strong wireless connection. (Explicit)
+The device needs to be efficient. (Explicit)
+The device is easy to set up. (Explicit)
+The reviewer purchased a weather station and it worked as intended for the first 35 days. However, after 35 days, the weather station stopped working. The reviewer tried to reset the unit but the reset light would not come on. The reviewer checked the batteries and they were good, and they even replaced the batteries but the weather station still did not work. The reviewer would not recommend this product.
+The device needs to be rugged enough for extended outdoor use. (Latent)
+The device's software needs to be intuitive/stress-free. (Latent)
+The device needs a complementary troubleshoot guide. (Explicit)
+The reviewer ordered a weather station and the display would flicker. They returned it for a new one but the display was worse. The reviewer could not see the display at all and they returned it.
+The device needs an easy to read display. (Explicit)
+The device needs to be rugged enough for extended outdoor use. (Latent)
+The device needs a complementary troubleshoot guide. (Explicit)
+
+
+Product #4
+Keywords: Weather Station
+Search Result link: Link
+
+Price: 339.00
+Vendor:Amazon
+Description: Tempest Weather System with Built-in Wind Meter, Rain Gauge, and Accurate Weather Forecasts, Wireless, App and Alexa Enabled
+
+Positive
+The reviewer was impressed with the product and researched many other products before choosing this product. The product withstand temperatures over 110 degrees and works with no problems. The accuracy of the forecast is more accurate than the National Weather Service for local weather.
+Need hardware for mounting the product.
+Need to come in different colors to match the environment. 
+Reviewer had a problem with the Tempest when a humidity sensor was faulty. Tech support was very helpful and sent a replacement within 3 days. Even with the faulty product reviewer still recommends product and values tech support. 
+Need a way to run self-diagnostics to find problems.
+Need to be tested before leaving the factory.
+Reviewer was impressed with the ease of setup and it was hard to mess up. Reviewer was skeptical of the forecast till it was proven true. Lastly the rain accuracy was spot on compared to the last unit(different brand) owned. 
+Need rain and wind direction sensor. 
+Need to last a few years. 
+
+
+Negative
+Reviewer had trouble with the unit, data was random and off in measuring. Tired calling tech support but got no answer and could not get the unit working right. Wrote an app to display temperature and sensor was off by 3 degrees. 
+Need better tech support for answers and solutions. 
+Need sensors to work properly.
+Reviewer had it in operation for 18 months but it was unreliable. The accumulative rain was the first problem, it would read randomly. The wind speed feature was the next problem. 
+Need accumulation of rain to work.
+Need a unit to read wind speed accurately. 
+Reviewer said the product was extremely inaccurate. The wind speed was wrong and direction was wrong also. The rain sensor would read outside with no rain. The only slightly right was the temperature sensor but still a few degrees off.  
+Need sensors to work properly. 
+Need a year warranty. 
+
+
+Product #5
+Keywords: Rain gauge
+Search Result link: Link
+Price: 119.19
+Vendor: Ambient Weather
+Description:
+ 
+Positive
+The unit works impressively as expected. I’m still learning its capabilities & limitations. For example, I’m wondering how long the wind gust data are retain: 1 min., an hr, …? Peak gust speed in the 24 hrs?
+Show different statistics (Latent)
+Have a lot of options (Explicit)
+Works! Not too difficult to install. Colors on the monitor are a bit much. Dark background with white numbers would have been fine for me.Would like more options for temp min and max. Ex min & max for 24 hours, a week, a month, a year.
+Have a large temperature range (Explicit)
+Work on power for a week (Latent)
+
+
+Negative
+I found the backlight in the indoor display could be brighter.
+Bright backlight (Explicit)
+Light around screen (Latent)
+If you are not looking almost straight on to it, the information disappears from view until you move back on-axis. This is a common problem for this type of screen, but it's still unfortunate. 
+Screen visible from multiple directions (Explicit)
+Easy to use screen type (Explicit)
+I only wish it didn’t need to be plugged in for the display to stay on. Pretty hard to find the button in the dark. I’d rather change batteries with it staying on than having the cord running down to a plug.
+Battery powered (Explicit)
+Light up controls (Latent)
+
+## Design Ideation
+
+**Benchmark Ranking**
+<img src="Benchmark302314.png">
+3 star to the right, 2 star in the middle, 1 star to the left.
+
+
+**Concepts**
 Rain Gauge Concept
 <img src="RainGaugeConcept.png">
 
