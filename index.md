@@ -1,5 +1,5 @@
-
 {% include toc.html html=content %}
+
 # EGR314 Fall 2023 : Team 302 Rain Gauge
 ---
 Members:
