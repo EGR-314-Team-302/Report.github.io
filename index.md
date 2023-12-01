@@ -56,7 +56,7 @@ Kalin Comins played the key role in the design process, his initial design conce
 The design we decided to pursue was the rain gauge and we chose that design for a number of reasons. The first being is simplicity, the aim of our group is to produce a product that adheres as closely to the product requirements and and user needs as possible. The simplicity in the rain gauge's design allows us to do just that and create an actual, functioning product. The second reason we chose the rain gauge is because it is the culmination of all our ideas into one simple package with little being left out of our design. The final reason we chose we the rain gauge is because of the possibility of expanding the devices use cases. We wanted to create an uncomplicated device with the potential to expand its capacities. The rain gauge design gives us that flexibility without sacrificing our main intent of creating a manageable device. The current design of the rain gauge can be seen below in **Figure 1.** 
 
 **Figure 1.** Rain Gauge Concept
-<img src="RainGaugeConcept2.png">
+<img src="RainGaugeConcept.png">
 
 Due to eletrical difficulties the water level sensor could not work with the IDE required for the course. This caused us to pivot design options from measuring and dectaecting rain to predicting it. We switched to the tempature sensor used previously in class. This would result in a device that measures tempature and ambiant pressure and outputs this information to a microcontroller and sends the information over wifi to the MQTT server. Based on this information the motor will spin in a direction for a certain period of time to give a warning to the user that there  is a high possibility of rain. 
 
@@ -73,13 +73,14 @@ The component selection can be arguably the most important segment of our projec
 Our current electrical schematic can be seen below in **Figure 3.**, these are how our components from the component selection will look and function in a circuit. We separated the subsystems for easier viewing of them and to gain a better understanding of how they will all fit into the makeup of the device. The boards design comes directly from the product requirements and user needs, and follows our projects overall theme of simplicity. We wanted to minimize complex wire routing and schematic layouts to reduce instances of shorts, open circuits, and unconnected components. A reduction of those instances precisely leads to a more reliable device, a device that is easy to troubleshoot, and a device that can last a long time, to name a few of our product requirements and user needs this design directly addresses. Creating this electrical schematic using the components we selected led to issues of shared data lines and incompatible power requirements, rectifying these issues without creating a more complex and involved was challenging, but we succeeded in doing so. 
 
 **Figure3. Team Board Electrical Schematic**
-<img src="team (2)-1.png">
+<img src="Scemadic.png">
 
 Using this scematic the team worked to make a PCB manufactured in the peralta lab. After transfering the design to the Cadence PCB editor the required gerber files were made and sent. Below in **Figure 4** is a screenshot of the PCB before manufacturing. 
 
 **Figure4. Team Board Electrical PCB**
+<img src="pcb.png">
 
-## Software Proposal
+## Software
 With our components selected and them mapped out in an electrical schematic, we needed a way to draft what our software would run like on the hardware we selected. For this we created a diagram using unified modeling language or UML, a UML diagram is a way visualize our design, subsystems, and software we intend to program to our hardware. Our UML diagram can be seen below in **Figure 5.**, and as you can see it is fairly simple. This is by design of course, our diagram aligns with our project wide theme of simplicity, which also produces simpler debugging and programming as an unintended byproduct. Like our physical subsystems, our software is also segmented into subsystems, this makes it easier for us to debug if issues arise in programming and allows us to customize them based on the parameters we set without changing the entire structure of the program. With the software segmented in subsystems we can also call them whenever we like to modify or completely change how our device functions. The subsystems of our software are also directly in line with our product requirements and user needs, some of those being the incorporation of wireless connectivity, automated systems, and support for an expanded ecosystem in the future.
 
 **Figure 5. UML System Software Diagram**
@@ -503,7 +504,7 @@ Light up controls (Latent)
 
 **Concepts**
 Rain Gauge Concept
-<img src="Rain guage concept.png">
+<img src="RainGuageConcept.png">
 
 Wind Turbine Concept
 
