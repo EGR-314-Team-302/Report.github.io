@@ -11,26 +11,32 @@ Arizona State University
 EGR 314 Embedded Sys. Design Project II
 ---
 
-- [EGR314 Fall 2023 : Team 302 Rain Gauge](#egr314-fall-2023---team-302-rain-gauge)
-  * [Introduction](#introduction)
-  * [Team Organization](#team-organization)
-  * [User Needs, Benchmarking, and Requirements](#user-needs--benchmarking--and-requirements)
-  * [Design Ideation](#design-ideation)
-  * [Selected Design](#selected-design)
-  * [Block Diagram](#block-diagram)
-  * [Component Selection](#component-selection)
-  * [Hardware Proposal](#hardware-proposal)
-  * [Software Proposal](#software-proposal)
-  * [Appendix](#appendix)
-    + [Team organization](#team-organization)
-    + [Ordered User Needs and Benchmarking:](#ordered-user-needs-and-benchmarking-)
-    + [Aspects](#aspects)
-    + [Design Ideation](#design-ideation-1)
-    + [Component Selection Full List](#component-selection-full-list)
-    + [Power Budget](#power-budget)
-    + [BOM](#bom)
+- [Introduction](#introduction)
+- [Team Organization](#team-organization)
+- [User Needs, Benchmarking, and Requirements](#user-needs--benchmarking--and-requirements)
+- [Design Ideation](#design-ideation)
+- [Final Selected Design](#final-selected-design)
+- [Block Diagram](#block-diagram)
+- [Component Selection](#component-selection)
+- [Final Hardware](#final-hardware)
+- [Final Software](#final-software)
+- [System Verification](#system-verification)
+- [Lessons Learned](#lessons-learned)
+- [Recommendations for Future Students](#recommendations-for-future-students)
+- [Appendix](#appendix)
+  * [Team organization](#team-organization)
+  * [Ordered User Needs and Benchmarking:](#ordered-user-needs-and-benchmarking-)
+  * [Aspects](#aspects)
+  * [Design Ideation](#design-ideation-1)
+  * [Component Selection Full List](#component-selection-full-list)
+  * [Power Budget](#power-budget)
+  * [BOM](#bom)
+  * [Closer Look at Temperature Sensor](#closer-look-at-temperature-sensor)
+  * [MQTT Topic Table](#mqtt-topic-table)
+  * [Rain Gauge Code & Resources](#rain-gauge-code---resources)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 
 
@@ -572,7 +578,7 @@ Hygrometer Concept
 <img src="Standin BOM.png">
 
 
-### Closer Look at Temerature Sensor
+### Closer Look at Temperature Sensor
 <img src="Temp sensor on board.png">
 
 ### MQTT Topic Table 
